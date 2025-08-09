@@ -1,6 +1,6 @@
-# Codsoft_Task3
+# Codsoft_Task4
 This repository contains my CODSOFT Internship Task 3 project
-# TASK 3 – Smart Restaurant Recommendation System
+# TASK 4 – Smart Restaurant Recommendation System
 
 This project is an intelligent **Restaurant Recommendation System** built with **Streamlit**, **Pandas**, and **Sentence Transformers**.  
 It leverages **Natural Language Processing (NLP)** and semantic search to provide personalized restaurant suggestions based on **location, cuisine, rating, and review count** filters.
